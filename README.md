@@ -16,4 +16,4 @@ http://yuens.pythonanywhere.com.
 ###IMPORTANT
 
 
-To Add/Edit a post, you'll need to login as John/thi$i$Cool (both username and password are case censitive), then click on the view site link at the top in the blue nav area.  you'll see an added + sign at the top of right corner of the site and when you click on a post there, you'll see an edit button next to the date to allow you to edit the post. 
+To Add/Edit a post, you'll need to login (http://yuens.pythonanywhere.com/admin) as John/thi$i$Cool (both username and password are case censitive), then click on the view site link at the top in the blue nav area.  you'll see an added + sign at the top of right corner of the site and when you click on a post there, you'll see an edit button next to the date to allow you to edit the post. 
