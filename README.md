@@ -1,4 +1,4 @@
-# wats 1030 Final Project 
+# wats 1030 - final project 
 Blog App Django Deployment
 
 at this pt for the final project, i’m simply doing a python/django deployment with a custom domain blog site which will allow an authenticated user to add and edit post(s).
