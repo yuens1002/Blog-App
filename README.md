@@ -1,7 +1,7 @@
 # wats 1030 Final Project 
 Blog App Django Deployment
 
-at this pt for the final project, i’m simply doing a python/django deployment with a custom domain blog site which will allow an authenticated user to add and edit new post.
+at this pt for the final project, i’m simply doing a python/django deployment with a custom domain blog site which will allow an authenticated user to add and edit post(s).
 
 02.28.15
 
