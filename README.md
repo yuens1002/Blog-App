@@ -1,7 +1,7 @@
 # wats 1030 - final project 
 ###Blog App Deployment Based on Django Framework
 
-at this pt for the final project, i’m simply doing a python/django deployment with a custom domain blog site which will allow an authenticated user to add and edit post(s).  This deployment blog app is based on the tutorial here
+at this pt for the final project, i’m simply doing a python/django deployment of a custom domain blog site (app) which will allow an authenticated user to add and edit post(s).  This deployment blog app is based on the tutorial here
 
 http://tutorial.djangogirls.org/en/whats_next/index.html
 
