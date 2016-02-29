@@ -10,3 +10,7 @@ for this week.  i have successfully added all the functionalities to the site an
 The live site is currently being hosted by pythonAnywhere:
 
 http://yuens.pythonanywhere.com. 
+
+###IMPORTANT
+
+To Add/Edit a post, you'll need to login as John/thi$i$Cool (both username and password are case censitive), then click on the view site link at the top in the blue nav area.  you'll see an added + sign at the top of right corner of the site and when you click on a post there, you'll see an edit button next to the date to allow you to edit the post. 
