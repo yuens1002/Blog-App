@@ -4,7 +4,6 @@
         <title>A Blog Built Using Django</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-        <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{% static 'css/blog.css' %}">
     </head>
     <body>
@@ -14,12 +13,12 @@
             {% endif %}	   
             <h1><a href="/">A Blog Built Using Django</a></h1><br><small>by following <a href="//tutorial.djangogirls.org/en/">Django Girls's Gitbook Tutorial</a></small>
         </div>
-        <div class="content container">
+        <div class="content container-fluid">
              <div class="row">        
-                 <div class-"col-md-8">
+                 <div class="col-md-12">
                  {% block content %}
                  {% endblock %}
-             	 <div>
+							   </div>
              </div>
         </div>
 	<footer class="container-fluid">
